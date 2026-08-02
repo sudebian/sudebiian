@@ -1,22 +1,22 @@
 ### Hey, I'm Sudenaz 👋
 
-19-year-old student diving deep into low-level systems, reverse engineering, and binary security. I spend most of my time analyzing how software behaves under the hood, messing with debuggers, and writing custom tools.
+Student and security researcher dedicated to low-level system mechanics, reverse engineering, and binary analysis. I spend most of my time disassembling executables, analyzing program behavior inside debuggers, and inspecting internal software structures.
 
 ---
 
-### 🛠️ Technical Focus & Stack
+### 🔍 Primary Technical Focus
 
-- **Focus Areas:** Reverse Engineering, Binary Analysis, Dynamic/Static Debugging, Windows Internals, Malware Analysis, Fuzzing
-- **Languages:** C++, C, Python, x86/x64 Assembly
-- **Environment & Tools:** Windows, Linux, Visual Studio, VS Code, x64dbg, IDA / Ghidra
+- **Reverse Engineering & Binary Analysis:** decode compiled software (executables, libraries, or firmware) to uncover internal logic, extract algorithms, or identify vulnerabilities.
+- **Debugging:** . Engineers use a combination of static analysis (disassembling/decompiling) and dynamic analysis (tracing execution, monitoring memory, and setting breakpoints) to understand behavior, fix legacy code, or identify vulnerabilities.
+- **Vulnerability Research:** Dissecting software logic flaws, malware behavior analysis, and automated fuzzing techniques.
 
 ---
 
-### 📌 Current Endeavors
+### 🛠️ Languages & Tools
 
-- Studying low-level OS mechanics and PE file structure internals
-- Developing custom Python (CustomTkinter) interfaces and desktop utilities
-- Experimenting with hardware/software interactions and anti-cheat mechanics
+- **Languages:** C++, C x86/x64 Assembly, Python
+- **Analysis Tools:** x64dbg, IDA Pro, Ghidra,
+- **Environments:** Windows Internals, Linux, VS Code
 
 ---
 
