@@ -1,20 +1,20 @@
-### Hey, I'm Sudenaz 👋
+### Hey, I'm Sudenaz 
 
-Student and security researcher dedicated to low-level system mechanics, reverse engineering, and binary analysis. I spend most of my time disassembling executables, analyzing program behavior inside debuggers, and inspecting internal software structures.
+Student interested in low-level systems, reverse engineering, and binary analysis.
 
 ---
 
 ### 🔍 Primary Technical Focus
 
-- **Reverse Engineering & Binary Analysis:** decode compiled software (executables, libraries, or firmware) to uncover internal logic, extract algorithms, or identify vulnerabilities.
-- **Debugging:** . Engineers use a combination of static analysis (disassembling/decompiling) and dynamic analysis (tracing execution, monitoring memory, and setting breakpoints) to understand behavior, fix legacy code, or identify vulnerabilities.
-- **Vulnerability Research:** Dissecting software logic flaws, malware behavior analysis, and automated fuzzing techniques.
+- **Reverse Engineering & Binary Analysis:** Analyzing compiled binaries (PE/ELF), reversing control flow, and inspecting internal program logic.
+- **Debugging & Runtime Analysis:** Static analysis (IDA/Ghidra) and dynamic tracing (x64dbg) using breakpoints, memory dumps, and API hooks.
+- **Vulnerability Research:** Finding logic flaws, analyzing malware behavior, and crash/fuzzing analysis.
 
 ---
 
 ### 🛠️ Languages & Tools
 
-- **Languages:** C++, C x86/x64 Assembly, Python
+- **Languages:** C++, x86/x64 Assembly, Python
 - **Analysis Tools:** x64dbg, IDA Pro, Ghidra,
 - **Environments:** Windows Internals, Linux, VS Code
 
