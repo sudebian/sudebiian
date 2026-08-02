@@ -31,4 +31,4 @@ Student interested in low-level systems, reverse engineering, and binary analysi
 ### 💬 Connect
 
 - **Discord:** `sud0ra`
-- **Website:** [sudebian.github.io](https://sudebian.github.io/sudebian/)
+- **Website:** [sudebian](https://sudebian.github.io/sudebian/)
